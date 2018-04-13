@@ -1,0 +1,10 @@
+// The package name to install under. 
+name=SRL-Plugins
+// The path to install into, from the working directory.
+directory=Plugins
+// If true, files will be installed directly into the directory
+extract_in_directory=true
+// collapse top level folders
+collapse=true
+// files not to install
+blacklist=.simbapackage,extensions
